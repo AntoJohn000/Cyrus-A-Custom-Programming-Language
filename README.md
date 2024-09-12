@@ -21,9 +21,11 @@ Through this project, I deepened my understanding of how programming languages f
 Code Interpretation: Gained insight into the steps involved in processing and interpreting code from tokens to executable actions.
 Error Handling: Implemented error-handling mechanisms to provide meaningful feedback when users encounter syntax or runtime errors.
 Memory Management: Developed a basic understanding of memory allocation and variable scoping within the language’s interpreter.
-Future Improvements
-There are several future enhancements planned for Cyrus, including:
 
+
+Future Improvements
+
+There are several future enhancements planned for Cyrus, including:
 Support for additional data types (e.g: dictionaries).
 Integration of advanced error handling and debugging tools such as LLVM.
 Performance optimizations, particularly for larger datasets or complex operations.
